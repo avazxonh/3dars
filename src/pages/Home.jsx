@@ -6,8 +6,7 @@ export default function Home() {
       <nav className="navbar">
         <a href="/">
           <img
-            cl
-            src="../src/images/site-logo.png"
+            src="./src/assets/site-logo.png"
             alt=""
             width={120}
             height={50}
