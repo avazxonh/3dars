@@ -5,12 +5,7 @@ export default function Home() {
     <header className="header container">
       <nav className="navbar">
         <a href="/">
-          <img
-            src="./src/assets/site-logo.png"
-            alt=""
-            width={120}
-            height={50}
-          />
+          <img src="./site-logo.png" alt="" width={120} height={50} />
         </a>
         <ul>
           <li>
